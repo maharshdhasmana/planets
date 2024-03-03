@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-gif{
-    background-image: url(./src/Assets/giphy.gif);
+.bg-gif {
+  background-image: url(./src/Assets/giphy.gif);
 }
